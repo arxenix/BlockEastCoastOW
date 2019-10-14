@@ -1,11 +1,15 @@
 # BlockEastCoastOW
 Script/exe to block east coast Overwatch servers
 
-# Download
+# [Download](https://github.com/arxenix/BlockEastCoastOW/releases/latest)
 
 
 # Usage
 Run blockEastCoast.exe with admin privileges. First time, you will need to select the path to your Overwatch.exe
+
+
+Example paths: `C:\Program Files (x86)\Overwatch\_retail_\Overwatch.exe`, `D:\Games\Overwatch\_retail_\Overwatch.exe`
+
 
 To locate the path:
 1. Open battle.net
